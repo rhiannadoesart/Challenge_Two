@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Sky
+  - Pickup
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -51,4 +53,10 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1718396331
+    locked: 0
+  - name: Pickup
+    uniqueID: 432383461
+    locked: 0
+  - name: Enemy
+    uniqueID: 1482061865
     locked: 0
